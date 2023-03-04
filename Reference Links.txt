@@ -1,0 +1,62 @@
+****  SPARK PROGRAMMING GUIDE -
+
+https://spark.apache.org/docs/latest/rdd-programming-guide.html
+(Search Spark Programming Guide in Google)
+
+
+****   SPARK DATAFRAME GUIDE - 
+
+ https://spark.apache.org/docs/latest/sql-getting-started.html
+(Search Spark DataFrame Guide in Google)
+
+
+****   SPARK SUPPPORTED SQL FUNCTIONS - 
+
+https://spark.apache.org/docs/latest/api/sql/index.html
+
+ 
+****   SPARK SQL DATAFRAME OPERATIONS - 
+
+ https://github.com/theavicaster/apache-spark-dse230x/blob/master/Data/Weather/NY.tgz
+
+ ****   REAL-TIME POINT-OF-SALE ANALYTICS WITH A DATA LAKEHOUSE -
+
+ https://www.databricks.com/blog/2021/09/09/real-time-   point-of-sale-analytics-with-a-data-lakehouse.html
+
+****  PRODUCER AND  CONSUMER KAFKA
+CONSOLE UTILS DOCUMENTATION -  
+
+https://datacadamia.com/dit/kafka/kafka-console-consumer
+
+
+****  EVERTHING ABOUT SPARK  - 
+
+https://awesomeopensource.com/project/awesome-spark/awesome-spark
+
+
+****  COMPLETE PYSPARK TUTORIAL -
+
+https://sparkbyexamples.com/pyspark-tutorial/
+
+
+****   SPARK ML GUIDE-
+
+https://spark.apache.org/docs/latest/ml-guide.html
+
+****  Getting started with deep learning in Databricks: an end-to-end example using TensorFlow Keras, Hyperopt, and MLflow -
+
+
+https://docs.databricks.com/machine-learning/train-model/keras-tutorial.html
+
+
+****   Datasets links - 
+
+https://archive.ics.uci.edu/ml/datasets.php?format=&task=&att=num&area=comp&numAtt=greater100&numIns=greater1000&type=&sort=attDown&view=list
+
+
+
+
+***   REFERENCE LINK ABOUT HDP SERVICES
+
+https://docs.cloudera.com/HDPDocuments/HDP2/HDP-2.6.0/bk_reference/content/starting_hdp_services.html
+
